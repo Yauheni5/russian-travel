@@ -1,0 +1,25 @@
+.content__info {
+  margin: 92px 0 0 100px;
+  width: 60%;
+}
+
+@media (max-width: 1279px) {
+  .content__info {
+    margin: 92px 0 0 48px;
+    width: 67%;
+  }
+}
+
+@media (max-width: 1023px) {
+  .content__info {
+    margin: 88px 24px 0;
+    width: 94%;
+  }
+}
+
+@media (max-width: 767px) {
+  .content__info {
+    margin: 64px 16px 0;
+    width: auto;
+  }
+}

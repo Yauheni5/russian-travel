@@ -1,0 +1,21 @@
+.place__list {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  width: 48%;
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+
+@media  (max-width: 1023px) {
+  .place__list {
+    gap: 25px;
+  }
+}
+
+@media (max-width: 767px) {
+  .place__list {
+    width: 100%;
+  }
+}
