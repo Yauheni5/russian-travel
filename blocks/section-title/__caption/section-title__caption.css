@@ -1,0 +1,15 @@
+.section-title__caption {
+  width: 100%;
+  align-self: flex-start;
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 1.5px;
+}
+
+@media (max-width: 767px) {
+  .section-title__caption {
+    margin-left: 16px;
+  }
+}

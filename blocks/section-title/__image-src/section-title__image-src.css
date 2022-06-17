@@ -1,0 +1,9 @@
+.section-title__image-src {
+  width: 100%;
+}
+
+@media (max-width: 1279px) {
+  .section-title__image-src {
+    width: 100%;
+  }
+}
