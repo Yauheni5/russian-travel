@@ -1,9 +1,0 @@
-.section-title__travel-itinerary {
-  margin: 64px auto 0;
-}
-
-@media (max-width: 1279px) {
-  .section-title__travel-itinerary {
-    margin: 56px 0 0 0;
-  }
-}

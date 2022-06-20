@@ -5,10 +5,3 @@
   letter-spacing: 2px;
   color: #AAA;
 }
-
-@media (max-width: 1023px) {
-  .place__url-heading {
-    line-height: 1;
-    letter-spacing: 2px;
-  }
-}

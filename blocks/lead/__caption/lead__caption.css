@@ -1,5 +1,4 @@
-.section-title__caption {
-  width: 100%;
+.lead__caption {
   align-self: flex-start;
   text-transform: uppercase;
   margin: 0;
@@ -9,7 +8,8 @@
 }
 
 @media (max-width: 767px) {
-  .section-title__caption {
+  .lead__caption {
+    box-sizing: border-box;
     margin-left: 16px;
   }
 }

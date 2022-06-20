@@ -5,26 +5,26 @@
   background: url('../../images/__background-train.png');
   background-repeat: no-repeat;
   background-size: 100%;
-  height: 740px;
+  min-height: 740px;
   object-fit: cover;
 }
 
 @media (max-width: 1279px) {
   .cover {
-    height: 640px;
+    min-height: 640px;
   }
 }
 
 @media (max-width: 1023px) {
   .cover {
     margin: 90px auto 0;
-    height: 480px;
+    min-height: 480px;
   }
 }
 
 @media (max-width: 767px) {
   .cover {
     margin: 66px auto 0;
-    height: 200px;
+    min-height: 200px;
   }
 }

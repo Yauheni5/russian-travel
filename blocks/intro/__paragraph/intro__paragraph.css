@@ -1,4 +1,5 @@
-.content__paragraph {
+.intro__paragraph {
+  box-sizing: border-box;
   margin: 40px 0 0 0;
   font-weight: 400;
   font-size: 16px;
