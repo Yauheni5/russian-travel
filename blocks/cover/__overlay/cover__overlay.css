@@ -9,6 +9,7 @@
   height: 100%;
   position: absolute;
   background: rgba(42, 44, 47, .3);
+  transition: background .5s;
 }
 
 .cover__overlay:hover {
